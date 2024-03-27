@@ -37,21 +37,24 @@
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
-}
-
 .app-container {
   display: flex;
 }
 
 .sidebar-container {
   position: fixed;
+  display: flexbox;
   left: 0;
   top: 0;
   bottom: 0;
+  min-width: 156px;
+  width: 13.4vw
 }
 
 .main-container {
   flex: 1;
+}
+
+body {
+  background-color: #141414;
 }

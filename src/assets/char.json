@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "0",
+    "name": "Ainz",
+    "color": "blue",
+    "path": "bAinz.png"
+  },
+  {
+    "id": "1",
+    "name": "Albedo",
+    "color": "blue",
+    "path": "bAlbedo.png"
+  },
+  {
+    "id": "2",
+    "name": "Arden",
+    "color": "blue",
+    "path": "bArden.png"
+  },
+  {
+    "id": "3",
+    "name": "Arthur",
+    "color": "blue",
+    "path": "bArthur.png"
+  },
+  {
+    "id": "4",
+    "name": "ArthurSSR",
+    "color": "blue",
+    "path": "bArthurSSR.png"
+  },
+  {
+    "id": "5",
+    "name": "Ban",
+    "color": "blue",
+    "path": "bBan.png"
+  },
+  {
+    "id": "6",
+    "name": "BanNunchak",
+    "color": "blue",
+    "path": "bBanNunchak.png"
+  },
+  {
+    "id": "7",
+    "name": "Beatrice",
+    "color": "blue",
+    "path": "bBeatrice.png"
+  },
+  {
+    "id": "8",
+    "name": "Bellion",
+    "color": "blue",
+    "path": "bBellion.png"
+  },
+  {
+    "id": "9",
+    "name": "Camilla",
+    "color": "blue",
+    "path": "bCamilla.png"
+  },
+  {
+    "id": "10",
+    "name": "Chandler",
+    "color": "blue",
+    "path": "bChandler.png"
+  },
+  {
+    "id": "11",
+    "name": "Cusack",
+    "color": "blue",
+    "path": "bCusack.png"
+  },
+  {
+    "id": "12",
+    "name": "CusackFest",
+    "color": "blue",
+    "path": "bCusackFest.png"
+  },
+  {
+    "id": "13",
+    "name": "Derieri",
+    "color": "blue",
+    "path": "bDerieri.png"
+  },
+  {
+    "id": "14",
+    "name": "Diane",
+    "color": "blue",
+    "path": "bDiane.png"
+  },
+  {
+    "id": "15",
+    "name": "DianeSmall",
+    "color": "blue",
+    "path": "bDianeSmall.png"
+  },
+  {
+    "id": "16",
+    "name": "Drole",
+    "color": "blue",
+    "path": "bDrole.png"
+  },
+  {
+    "id": "17",
+    "name": "Eastin",
+    "color": "blue",
+    "path": "bEastin.png"
+  },
+  {
+    "id": "18",
+    "name": "ElaineBase",
+    "color": "blue",
+    "path": "bElaineBase.png"
+  },
+  {
+    "id": "19",
+    "name": "ElaineGoldenWings",
+    "color": "blue",
+    "path": "bElaineGoldenWings.png"
+  },
+  {
+    "id": "20",
+    "name": "Eleven",
+    "color": "blue",
+    "path": "bEleven.png"
+  },
+  {
+    "id": "21",
+    "name": "ElizabethGoddessFest",
+    "color": "blue",
+    "path": "bElizabethGoddessFest.png"
+  },
+  {
+    "id": "22",
+    "name": "ElizabethHawk",
+    "color": "blue",
+    "path": "bElizabethHawk.png"
+  },
+  {
+    "id": "23",
+    "name": "ElizabethSuicide",
+    "color": "blue",
+    "path": "bElizabethSuicide.png"
+  },
+  {
+    "id": "24",
+    "name": "Ellatte",
+    "color": "blue",
+    "path": "bEllatte.png"
+  },
+  {
+    "id": "25",
+    "name": "Emilia",
+    "color": "blue",
+    "path": "bEmilia.png"
+  },
+  {
+    "id": "26",
+    "name": "Eren",
+    "color": "blue",
+    "path": "bEren.png"
+  },
+  {
+    "id": "27",
+    "name": "ErenSR",
+    "color": "blue",
+    "path": "bErenSR.png"
+  },
+  {
+    "id": "28",
+    "name": "EscanorTheOneFest",
+    "color": "blue",
+    "path": "bEscanorTheOneFest.png"
+  },
+  {
+    "id": "29",
+    "name": "EstarossaFest",
+    "color": "blue",
+    "path": "bEstarossaFest.png"
+  },
+  {
+    "id": "30",
+    "name": "Fraudrin",
+    "color": "blue",
+    "path": "bFraudrin.png"
+  },
+  {
+    "id": "31",
+    "name": "Freesia",
+    "color": "blue",
+    "path": "bFreesia.png"
+  },
+  {
+    "id": "32",
+    "name": "Galan",
+    "color": "blue",
+    "path": "bGalan.png"
+  },
+  {
+    "id": "33",
+    "name": "Gilthunder",
+    "color": "blue",
+    "path": "bGilthunder.png"
+  },
+  {
+    "id": "34",
+    "name": "GithunderPvP",
+    "color": "blue",
+    "path": "bGithunderPvP.png"
+  },
+  {
+    "id": "35",
+    "name": "Golgius",
+    "color": "blue",
+    "path": "bGolgius.png"
+  },
+  {
+    "id": "36",
+    "name": "Gowther",
+    "color": "blue",
+    "path": "bGowther.png"
+  },
+  {
+    "id": "37",
+    "name": "Griamor",
+    "color": "blue",
+    "path": "bGriamor.png"
+  },
+  {
+    "id": "38",
+    "name": "GriamorFree",
+    "color": "blue",
+    "path": "bGriamorFree.png"
+  },
+  {
+    "id": "39",
+    "name": "Guila",
+    "color": "blue",
+    "path": "bGuila.png"
+  },
+  {
+    "id": "40",
+    "name": "Helbram",
+    "color": "blue",
+    "path": "bHelbram.png"
+  },
+  {
+    "id": "41",
+    "name": "HelbramPvP",
+    "color": "blue",
+    "path": "bHelbramPvP.png"
+  },
+  {
+    "id": "42",
+    "name": "Hendrickson",
+    "color": "blue",
+    "path": "bHendrickson.png"
+  },
+  {
+    "id": "43",
+    "name": "Howzer",
+    "color": "blue",
+    "path": "bHowzer.png"
+  },
+  {
+    "id": "44",
+    "name": "HowzerSR",
+    "color": "blue",
+    "path": "bHowzerSR.png"
+  },
+  {
+    "id": "45",
+    "name": "Jenna",
+    "color": "blue",
+    "path": "bJenna.png"
+  },
+  {
+    "id": "46",
+    "name": "JennaMave",
+    "color": "blue",
+    "path": "bJennaMave.png"
+  },
+  {
+    "id": "47",
+    "name": "Jericho",
+    "color": "blue",
+    "path": "bJericho.png"
+  },
+  {
+    "id": "48",
+    "name": "JerichoSR",
+    "color": "blue",
+    "path": "bJerichoSR.png"
+  },
+  {
+    "id": "49",
+    "name": "King",
+    "color": "blue",
+    "path": "bKing.png"
+  },
+  {
+    "id": "50",
+    "name": "KingChadFest",
+    "color": "blue",
+    "path": "bKingChadFest.png"
+  },
+  {
+    "id": "51",
+    "name": "KingFat",
+    "color": "blue",
+    "path": "bKingFat.png"
+  },
+  {
+    "id": "52",
+    "name": "KingSmallWingsFest",
+    "color": "blue",
+    "path": "bKingSmallWingsFest.png"
+  },
+  {
+    "id": "53",
+    "name": "Lillia",
+    "color": "blue",
+    "path": "bLillia.png"
+  },
+  {
+    "id": "54",
+    "name": "LilliaAwakened",
+    "color": "blue",
+    "path": "bLilliaAwakened.png"
+  },
+  {
+    "id": "55",
+    "name": "Liz",
+    "color": "blue",
+    "path": "bLiz.png"
+  },
+  {
+    "id": "56",
+    "name": "Ludociel",
+    "color": "blue",
+    "path": "bLudociel.png"
+  },
+  {
+    "id": "57",
+    "name": "Mai",
+    "color": "blue",
+    "path": "bMai.png"
+  },
+  {
+    "id": "58",
+    "name": "MargaretFest",
+    "color": "blue",
+    "path": "bMargaretFest.png"
+  },
+  {
+    "id": "59",
+    "name": "MargaretFestLR",
+    "color": "blue",
+    "path": "bMargaretFestLR.png"
+  },
+  {
+    "id": "60",
+    "name": "Marmas",
+    "color": "blue",
+    "path": "bMarmas.png"
+  },
+  {
+    "id": "61",
+    "name": "Matrona",
+    "color": "blue",
+    "path": "bMatrona.png"
+  },
+  {
+    "id": "62",
+    "name": "Megelda",
+    "color": "blue",
+    "path": "bMegelda.png"
+  },
+  {
+    "id": "63",
+    "name": "Melascula",
+    "color": "blue",
+    "path": "bMelascula.png"
+  },
+  {
+    "id": "64",
+    "name": "Meliodas",
+    "color": "blue",
+    "path": "bMeliodas.png"
+  },
+  {
+    "id": "65",
+    "name": "MeliodasDemon",
+    "color": "blue",
+    "path": "bMeliodasDemon.png"
+  },
+  {
+    "id": "66",
+    "name": "MeliodasDemonKingFest",
+    "color": "blue",
+    "path": "bMeliodasDemonKingFest.png"
+  },
+  {
+    "id": "67",
+    "name": "MeliodasRagnarok",
+    "color": "blue",
+    "path": "bMeliodasRagnarok.png"
+  },
+  {
+    "id": "68",
+    "name": "MeliodasSR",
+    "color": "blue",
+    "path": "bMeliodasSR.png"
+  },
+  {
+    "id": "69",
+    "name": "Merlin",
+    "color": "blue",
+    "path": "bMerlin.png"
+  },
+  {
+    "id": "70",
+    "name": "MerlinSummer",
+    "color": "blue",
+    "path": "bMerlinSummer.png"
+  },
+  {
+    "id": "71",
+    "name": "Mikasa",
+    "color": "blue",
+    "path": "bMikasa.png"
+  },
+  {
+    "id": "72",
+    "name": "Milim",
+    "color": "blue",
+    "path": "bMilim.png"
+  },
+  {
+    "id": "73",
+    "name": "Mono",
+    "color": "blue",
+    "path": "bMono.png"
+  },
+  {
+    "id": "74",
+    "name": "MonoAwakenedIronBlood",
+    "color": "blue",
+    "path": "bMonoAwakenedIronBlood.png"
+  },
+  {
+    "id": "75",
+    "name": "Nanashi",
+    "color": "blue",
+    "path": "bNanashi.png"
+  },
+  {
+    "id": "76",
+    "name": "Naofumi",
+    "color": "blue",
+    "path": "bNaofumi.png"
+  },
+  {
+    "id": "77",
+    "name": "OsloHawk",
+    "color": "blue",
+    "path": "bOsloHawk.png"
+  },
+  {
+    "id": "78",
+    "name": "Raphtalia",
+    "color": "blue",
+    "path": "bRaphtalia.png"
+  },
+  {
+    "id": "79",
+    "name": "Rimuru",
+    "color": "blue",
+    "path": "bRimuru.png"
+  },
+  {
+    "id": "80",
+    "name": "Roxy",
+    "color": "blue",
+    "path": "bRoxy.png"
+  },
+  {
+    "id": "81",
+    "name": "RoxyFrenzy",
+    "color": "blue",
+    "path": "bRoxyFrenzy.png"
+  },
+  {
+    "id": "82",
+    "name": "Shin",
+    "color": "blue",
+    "path": "bShin.png"
+  },
+  {
+    "id": "83",
+    "name": "Slater",
+    "color": "blue",
+    "path": "bSlater.png"
+  },
+  {
+    "id": "84",
+    "name": "Tarmiel",
+    "color": "blue",
+    "path": "bTarmiel.png"
+  },
+  {
+    "id": "85",
+    "name": "Tristan",
+    "color": "blue",
+    "path": "bTristan.png"
+  },
+  {
+    "id": "86",
+    "name": "Valenti",
+    "color": "blue",
+    "path": "bValenti.png"
+  },
+  {
+    "id": "87",
+    "name": "Waillo",
+    "color": "blue",
+    "path": "bWaillo.png"
+  },
+  {
+    "id": "88",
+    "name": "Weinheidt",
+    "color": "blue",
+    "path": "bWeinheidt.png"
+  },
+  {
+    "id": "89",
+    "name": "YuriZahard",
+    "color": "blue",
+    "path": "bYuriZahard.png"
+  },
+  {
+    "id": "90",
+    "name": "Zeldris",
+    "color": "blue",
+    "path": "bZeldris.png"
+  },
+  {
+    "id": "91",
+    "name": "Zeldris2",
+    "color": "blue",
+    "path": "bZeldris2.png"
+  },
+  {
+    "id": "92",
+    "name": "ZeldrisLR",
+    "color": "blue",
+    "path": "bZeldrisLR.png"
+  },
+  {
+    "id": "93",
+    "name": "HelFest",
+    "color": "dark",
+    "path": "dHelFest.png"
+  },
+  {
+    "id": "94",
+    "name": "MeliodasPurgatoryFest",
+    "color": "dark",
+    "path": "dMeliodasPurgatoryFest.png"
+  },
+  {
+    "id": "95",
+    "name": "MeliodasTraitorFest",
+    "color": "dark",
+    "path": "dMeliodasTraitorFest.png"
+  },
+  {
+    "id": "96",
+    "name": "ZeldrisDemonKing",
+    "color": "dark",
+    "path": "dZeldrisDemonKing.png"
+  },
+  {
+    "id": "97",
+    "name": "Alioni",
+    "color": "green",
+    "path": "gAlioni.png"
+  },
+  {
+    "id": "98",
+    "name": "Arthur",
+    "color": "green",
+    "path": "gArthur.png"
+  },
+  {
+    "id": "99",
+    "name": "ArthurChaosFest",
+    "color": "green",
+    "path": "gArthurChaosFest.png"
+  },
+  {
+    "id": "100",
+    "name": "ArthurExcalibur",
+    "color": "green",
+    "path": "gArthurExcalibur.png"
+  },
+  {
+    "id": "101",
+    "name": "Athena",
+    "color": "green",
+    "path": "gAthena.png"
+  },
+  {
+    "id": "102",
+    "name": "BanBrawl",
+    "color": "green",
+    "path": "gBanBrawl.png"
+  },
+  {
+    "id": "103",
+    "name": "BanNunchack",
+    "color": "green",
+    "path": "gBanNunchack.png"
+  },
+  {
+    "id": "104",
+    "name": "Brunhild",
+    "color": "green",
+    "path": "gBrunhild.png"
+  },
+  {
+    "id": "105",
+    "name": "Cain",
+    "color": "green",
+    "path": "gCain.png"
+  },
+  {
+    "id": "106",
+    "name": "Chandler",
+    "color": "green",
+    "path": "gChandler.png"
+  },
+  {
+    "id": "107",
+    "name": "Cocytus",
+    "color": "green",
+    "path": "gCocytus.png"
+  },
+  {
+    "id": "108",
+    "name": "Deathpierce",
+    "color": "green",
+    "path": "gDeathpierce.png"
+  },
+  {
+    "id": "109",
+    "name": "Derieri",
+    "color": "green",
+    "path": "gDerieri.png"
+  },
+  {
+    "id": "110",
+    "name": "DianeGiant",
+    "color": "green",
+    "path": "gDianeGiant.png"
+  },
+  {
+    "id": "111",
+    "name": "DianeQueenValentine",
+    "color": "green",
+    "path": "gDianeQueenValentine.png"
+  },
+  {
+    "id": "112",
+    "name": "DianeRagnarok",
+    "color": "green",
+    "path": "gDianeRagnarok.png"
+  },
+  {
+    "id": "113",
+    "name": "DianeRagnarokSmall",
+    "color": "green",
+    "path": "gDianeRagnarokSmall.png"
+  },
+  {
+    "id": "114",
+    "name": "DianeSmall",
+    "color": "green",
+    "path": "gDianeSmall.png"
+  },
+  {
+    "id": "115",
+    "name": "Dreyfus",
+    "color": "green",
+    "path": "gDreyfus.png"
+  },
+  {
+    "id": "116",
+    "name": "Drole",
+    "color": "green",
+    "path": "gDrole.png"
+  },
+  {
+    "id": "117",
+    "name": "Eastin",
+    "color": "green",
+    "path": "gEastin.png"
+  },
+  {
+    "id": "118",
+    "name": "EastinHalloween",
+    "color": "green",
+    "path": "gEastinHalloween.png"
+  },
+  {
+    "id": "119",
+    "name": "Echidna",
+    "color": "green",
+    "path": "gEchidna.png"
+  },
+  {
+    "id": "120",
+    "name": "Elaine",
+    "color": "green",
+    "path": "gElaine.png"
+  },
+  {
+    "id": "121",
+    "name": "ElaineGoldenWings",
+    "color": "green",
+    "path": "gElaineGoldenWings.png"
+  },
+  {
+    "id": "122",
+    "name": "Elizabeth",
+    "color": "green",
+    "path": "gElizabeth.png"
+  },
+  {
+    "id": "123",
+    "name": "ElizabethHawkSR",
+    "color": "green",
+    "path": "gElizabethHawkSR.png"
+  },
+  {
+    "id": "124",
+    "name": "Ellatte",
+    "color": "green",
+    "path": "gEllatte.png"
+  },
+  {
+    "id": "125",
+    "name": "Eren",
+    "color": "green",
+    "path": "gEren.png"
+  },
+  {
+    "id": "126",
+    "name": "Escanor",
+    "color": "green",
+    "path": "gEscanor.png"
+  },
+  {
+    "id": "127",
+    "name": "EscanorLR",
+    "color": "green",
+    "path": "gEscanorLR.png"
+  },
+  {
+    "id": "128",
+    "name": "Estarossa",
+    "color": "green",
+    "path": "gEstarossa.png"
+  },
+  {
+    "id": "129",
+    "name": "Filo",
+    "color": "green",
+    "path": "gFilo.png"
+  },
+  {
+    "id": "130",
+    "name": "Fraudrin",
+    "color": "green",
+    "path": "gFraudrin.png"
+  },
+  {
+    "id": "131",
+    "name": "Freyja",
+    "color": "green",
+    "path": "gFreyja.png"
+  },
+  {
+    "id": "132",
+    "name": "Gerharde",
+    "color": "green",
+    "path": "gGerharde.png"
+  },
+  {
+    "id": "133",
+    "name": "Ghislaine",
+    "color": "green",
+    "path": "gGhislaine.png"
+  },
+  {
+    "id": "134",
+    "name": "Gilthunder",
+    "color": "green",
+    "path": "gGilthunder.png"
+  },
+  {
+    "id": "135",
+    "name": "Gloxinia",
+    "color": "green",
+    "path": "gGloxinia.png"
+  },
+  {
+    "id": "136",
+    "name": "GloxiniaLR",
+    "color": "green",
+    "path": "gGloxiniaLR.png"
+  },
+  {
+    "id": "137",
+    "name": "Gowther",
+    "color": "green",
+    "path": "gGowther.png"
+  },
+  {
+    "id": "138",
+    "name": "GowtherFest",
+    "color": "green",
+    "path": "gGowtherFest.png"
+  },
+  {
+    "id": "139",
+    "name": "GowtherHalloween",
+    "color": "green",
+    "path": "gGowtherHalloween.png"
+  },
+  {
+    "id": "140",
+    "name": "Griamor",
+    "color": "green",
+    "path": "gGriamor.png"
+  },
+  {
+    "id": "141",
+    "name": "Guila",
+    "color": "green",
+    "path": "gGuila.png"
+  },
+  {
+    "id": "142",
+    "name": "Gustaf",
+    "color": "green",
+    "path": "gGustaf.png"
+  },
+  {
+    "id": "143",
+    "name": "Hawk",
+    "color": "green",
+    "path": "gHawk.png"
+  },
+  {
+    "id": "144",
+    "name": "Helbram",
+    "color": "green",
+    "path": "gHelbram.png"
+  },
+  {
+    "id": "145",
+    "name": "Hendrickson",
+    "color": "green",
+    "path": "gHendrickson.png"
+  },
+  {
+    "id": "146",
+    "name": "HendricksonSR",
+    "color": "green",
+    "path": "gHendricksonSR.png"
+  },
+  {
+    "id": "147",
+    "name": "HowzerSR",
+    "color": "green",
+    "path": "gHowzerSR.png"
+  },
+  {
+    "id": "148",
+    "name": "Hugo",
+    "color": "green",
+    "path": "gHugo.png"
+  },
+  {
+    "id": "149",
+    "name": "Iori",
+    "color": "green",
+    "path": "gIori.png"
+  },
+  {
+    "id": "150",
+    "name": "Jericho",
+    "color": "green",
+    "path": "gJericho.png"
+  },
+  {
+    "id": "151",
+    "name": "Jillian",
+    "color": "green",
+    "path": "gJillian.png"
+  },
+  {
+    "id": "152",
+    "name": "Jormungandr",
+    "color": "green",
+    "path": "gJormungandr.png"
+  },
+  {
+    "id": "153",
+    "name": "King",
+    "color": "green",
+    "path": "gKing.png"
+  },
+  {
+    "id": "154",
+    "name": "KingChad",
+    "color": "green",
+    "path": "gKingChad.png"
+  },
+  {
+    "id": "155",
+    "name": "KingFat",
+    "color": "green",
+    "path": "gKingFat.png"
+  },
+  {
+    "id": "156",
+    "name": "KingValentine",
+    "color": "green",
+    "path": "gKingValentine.png"
+  },
+  {
+    "id": "157",
+    "name": "Levi",
+    "color": "green",
+    "path": "gLevi.png"
+  },
+  {
+    "id": "158",
+    "name": "Lillia",
+    "color": "green",
+    "path": "gLillia.png"
+  },
+  {
+    "id": "159",
+    "name": "Liz",
+    "color": "green",
+    "path": "gLiz.png"
+  },
+  {
+    "id": "160",
+    "name": "Ludociel",
+    "color": "green",
+    "path": "gLudociel.png"
+  },
+  {
+    "id": "161",
+    "name": "Matrona",
+    "color": "green",
+    "path": "gMatrona.png"
+  },
+  {
+    "id": "162",
+    "name": "Melascula",
+    "color": "green",
+    "path": "gMelascula.png"
+  },
+  {
+    "id": "163",
+    "name": "MeliodasAssaultFest",
+    "color": "green",
+    "path": "gMeliodasAssaultFest.png"
+  },
+  {
+    "id": "164",
+    "name": "MeliodasCounter",
+    "color": "green",
+    "path": "gMeliodasCounter.png"
+  },
+  {
+    "id": "165",
+    "name": "MeliodasDemon",
+    "color": "green",
+    "path": "gMeliodasDemon.png"
+  },
+  {
+    "id": "166",
+    "name": "Merlin",
+    "color": "green",
+    "path": "gMerlin.png"
+  },
+  {
+    "id": "167",
+    "name": "MerlinInfinityFest",
+    "color": "green",
+    "path": "gMerlinInfinityFest.png"
+  },
+  {
+    "id": "168",
+    "name": "MerlinLoliFest",
+    "color": "green",
+    "path": "gMerlinLoliFest.png"
+  },
+  {
+    "id": "169",
+    "name": "MerlinRagnarok",
+    "color": "green",
+    "path": "gMerlinRagnarok.png"
+  },
+  {
+    "id": "170",
+    "name": "Mono",
+    "color": "green",
+    "path": "gMono.png"
+  },
+  {
+    "id": "171",
+    "name": "MonoAwakened",
+    "color": "green",
+    "path": "gMonoAwakened.png"
+  },
+  {
+    "id": "172",
+    "name": "Monspeet",
+    "color": "green",
+    "path": "gMonspeet.png"
+  },
+  {
+    "id": "173",
+    "name": "OsloHawk",
+    "color": "green",
+    "path": "gOsloHawk.png"
+  },
+  {
+    "id": "174",
+    "name": "Ram",
+    "color": "green",
+    "path": "gRam.png"
+  },
+  {
+    "id": "175",
+    "name": "Rimuru",
+    "color": "green",
+    "path": "gRimuru.png"
+  },
+  {
+    "id": "176",
+    "name": "RimuruSlimeSR",
+    "color": "green",
+    "path": "gRimuruSlimeSR.png"
+  },
+  {
+    "id": "177",
+    "name": "Roxy",
+    "color": "green",
+    "path": "gRoxy.png"
+  },
+  {
+    "id": "178",
+    "name": "RoxyMigurdia",
+    "color": "green",
+    "path": "gRoxyMigurdia.png"
+  },
+  {
+    "id": "179",
+    "name": "Rugal",
+    "color": "green",
+    "path": "gRugal.png"
+  },
+  {
+    "id": "180",
+    "name": "Ruin",
+    "color": "green",
+    "path": "gRuin.png"
+  },
+  {
+    "id": "181",
+    "name": "Sariel",
+    "color": "green",
+    "path": "gSariel.png"
+  },
+  {
+    "id": "182",
+    "name": "Shin",
+    "color": "green",
+    "path": "gShin.png"
+  },
+  {
+    "id": "183",
+    "name": "Shuna",
+    "color": "green",
+    "path": "gShuna.png"
+  },
+  {
+    "id": "184",
+    "name": "Thonar",
+    "color": "green",
+    "path": "gThonar.png"
+  },
+  {
+    "id": "185",
+    "name": "Valenti",
+    "color": "green",
+    "path": "gValenti.png"
+  },
+  {
+    "id": "186",
+    "name": "ValentiObsession",
+    "color": "green",
+    "path": "gValentiObsession.png"
+  },
+  {
+    "id": "187",
+    "name": "Will",
+    "color": "green",
+    "path": "gWill.png"
+  },
+  {
+    "id": "188",
+    "name": "ZahardData",
+    "color": "green",
+    "path": "gZahardData.png"
+  },
+  {
+    "id": "189",
+    "name": "Zaneri",
+    "color": "green",
+    "path": "gZaneri.png"
+  },
+  {
+    "id": "190",
+    "name": "Zaratras",
+    "color": "green",
+    "path": "gZaratras.png"
+  },
+  {
+    "id": "191",
+    "name": "ZeldrisFest",
+    "color": "green",
+    "path": "gZeldrisFest.png"
+  },
+  {
+    "id": "192",
+    "name": "BanTranscendentFest",
+    "color": "light",
+    "path": "lBanTranscendentFest.png"
+  },
+  {
+    "id": "193",
+    "name": "ElizabethBloodFest",
+    "color": "light",
+    "path": "lElizabethBloodFest.png"
+  },
+  {
+    "id": "194",
+    "name": "ElizabethQueenFest",
+    "color": "light",
+    "path": "lElizabethQueenFest.png"
+  },
+  {
+    "id": "195",
+    "name": "EscanorUltimateFest",
+    "color": "light",
+    "path": "lEscanorUltimateFest.png"
+  },
+  {
+    "id": "196",
+    "name": "MaelFest",
+    "color": "light",
+    "path": "lMaelFest.png"
+  },
+  {
+    "id": "197",
+    "name": "Arthur",
+    "color": "red",
+    "path": "rArthur.png"
+  },
+  {
+    "id": "198",
+    "name": "ArthurExcalibur",
+    "color": "red",
+    "path": "rArthurExcalibur.png"
+  },
+  {
+    "id": "199",
+    "name": "Ban",
+    "color": "red",
+    "path": "rBan.png"
+  },
+  {
+    "id": "200",
+    "name": "BanNunchak",
+    "color": "red",
+    "path": "rBanNunchak.png"
+  },
+  {
+    "id": "201",
+    "name": "BanPurgatory",
+    "color": "red",
+    "path": "rBanPurgatory.png"
+  },
+  {
+    "id": "202",
+    "name": "BanRagnarok",
+    "color": "red",
+    "path": "rBanRagnarok.png"
+  },
+  {
+    "id": "203",
+    "name": "Beniamru",
+    "color": "red",
+    "path": "rBeniamru.png"
+  },
+  {
+    "id": "204",
+    "name": "Brunhild",
+    "color": "red",
+    "path": "rBrunhild.png"
+  },
+  {
+    "id": "205",
+    "name": "Camilla",
+    "color": "red",
+    "path": "rCamilla.png"
+  },
+  {
+    "id": "206",
+    "name": "Deldry",
+    "color": "red",
+    "path": "rDeldry.png"
+  },
+  {
+    "id": "207",
+    "name": "Denzel",
+    "color": "red",
+    "path": "rDenzel.png"
+  },
+  {
+    "id": "208",
+    "name": "Derieri",
+    "color": "red",
+    "path": "rDerieri.png"
+  },
+  {
+    "id": "209",
+    "name": "Diane",
+    "color": "red",
+    "path": "rDiane.png"
+  },
+  {
+    "id": "210",
+    "name": "DianeFest",
+    "color": "red",
+    "path": "rDianeFest.png"
+  },
+  {
+    "id": "211",
+    "name": "DianeSmall",
+    "color": "red",
+    "path": "rDianeSmall.png"
+  },
+  {
+    "id": "212",
+    "name": "DianeSummer",
+    "color": "red",
+    "path": "rDianeSummer.png"
+  },
+  {
+    "id": "213",
+    "name": "DianeWedding",
+    "color": "red",
+    "path": "rDianeWedding.png"
+  },
+  {
+    "id": "214",
+    "name": "Dogedo",
+    "color": "red",
+    "path": "rDogedo.png"
+  },
+  {
+    "id": "215",
+    "name": "Dreyfus",
+    "color": "red",
+    "path": "rDreyfus.png"
+  },
+  {
+    "id": "216",
+    "name": "Eastin",
+    "color": "red",
+    "path": "rEastin.png"
+  },
+  {
+    "id": "217",
+    "name": "EastinAwakened",
+    "color": "red",
+    "path": "rEastinAwakened.png"
+  },
+  {
+    "id": "218",
+    "name": "ElaineSummer",
+    "color": "red",
+    "path": "rElaineSummer.png"
+  },
+  {
+    "id": "219",
+    "name": "ElaineValentine",
+    "color": "red",
+    "path": "rElaineValentine.png"
+  },
+  {
+    "id": "220",
+    "name": "ElizabethGoddess",
+    "color": "red",
+    "path": "rElizabethGoddess.png"
+  },
+  {
+    "id": "221",
+    "name": "ElizabethHawk",
+    "color": "red",
+    "path": "rElizabethHawk.png"
+  },
+  {
+    "id": "222",
+    "name": "ElizabethHawkSR",
+    "color": "red",
+    "path": "rElizabethHawkSR.png"
+  },
+  {
+    "id": "223",
+    "name": "ElizabethNewYear",
+    "color": "red",
+    "path": "rElizabethNewYear.png"
+  },
+  {
+    "id": "224",
+    "name": "ElizabethNewYearLR",
+    "color": "red",
+    "path": "rElizabethNewYearLR.png"
+  },
+  {
+    "id": "225",
+    "name": "ElizabethSR",
+    "color": "red",
+    "path": "rElizabethSR.png"
+  },
+  {
+    "id": "226",
+    "name": "Ellatte",
+    "color": "red",
+    "path": "rEllatte.png"
+  },
+  {
+    "id": "227",
+    "name": "Eris",
+    "color": "red",
+    "path": "rEris.png"
+  },
+  {
+    "id": "228",
+    "name": "Escanor",
+    "color": "red",
+    "path": "rEscanor.png"
+  },
+  {
+    "id": "229",
+    "name": "Estarossa",
+    "color": "red",
+    "path": "rEstarossa.png"
+  },
+  {
+    "id": "230",
+    "name": "Freya",
+    "color": "red",
+    "path": "rFreya.png"
+  },
+  {
+    "id": "231",
+    "name": "Freyr",
+    "color": "red",
+    "path": "rFreyr.png"
+  },
+  {
+    "id": "232",
+    "name": "Galan",
+    "color": "red",
+    "path": "rGalan.png"
+  },
+  {
+    "id": "233",
+    "name": "Gelda",
+    "color": "red",
+    "path": "rGelda.png"
+  },
+  {
+    "id": "234",
+    "name": "Gilthunder",
+    "color": "red",
+    "path": "rGilthunder.png"
+  },
+  {
+    "id": "235",
+    "name": "Gloxinia",
+    "color": "red",
+    "path": "rGloxinia.png"
+  },
+  {
+    "id": "236",
+    "name": "Gowther",
+    "color": "red",
+    "path": "rGowther.png"
+  },
+  {
+    "id": "237",
+    "name": "Griamor",
+    "color": "red",
+    "path": "rGriamor.png"
+  },
+  {
+    "id": "238",
+    "name": "Guila",
+    "color": "red",
+    "path": "rGuila.png"
+  },
+  {
+    "id": "239",
+    "name": "Hawk",
+    "color": "red",
+    "path": "rHawk.png"
+  },
+  {
+    "id": "240",
+    "name": "Helbram",
+    "color": "red",
+    "path": "rHelbram.png"
+  },
+  {
+    "id": "241",
+    "name": "Howzer",
+    "color": "red",
+    "path": "rHowzer.png"
+  },
+  {
+    "id": "242",
+    "name": "Jericho",
+    "color": "red",
+    "path": "rJericho.png"
+  },
+  {
+    "id": "243",
+    "name": "JerichoFreeze",
+    "color": "red",
+    "path": "rJerichoFreeze.png"
+  },
+  {
+    "id": "244",
+    "name": "Jim",
+    "color": "red",
+    "path": "rJim.png"
+  },
+  {
+    "id": "245",
+    "name": "Jude",
+    "color": "red",
+    "path": "rJude.png"
+  },
+  {
+    "id": "246",
+    "name": "JyuVioleGrace",
+    "color": "red",
+    "path": "rJyuVioleGrace.png"
+  },
+  {
+    "id": "247",
+    "name": "King",
+    "color": "red",
+    "path": "rKing.png"
+  },
+  {
+    "id": "248",
+    "name": "KingFat",
+    "color": "red",
+    "path": "rKingFat.png"
+  },
+  {
+    "id": "249",
+    "name": "Kizuna",
+    "color": "red",
+    "path": "rKizuna.png"
+  },
+  {
+    "id": "250",
+    "name": "Kyo",
+    "color": "red",
+    "path": "rKyo.png"
+  },
+  {
+    "id": "251",
+    "name": "Levi",
+    "color": "red",
+    "path": "rLevi.png"
+  },
+  {
+    "id": "252",
+    "name": "LilliaAwakened",
+    "color": "red",
+    "path": "rLilliaAwakened.png"
+  },
+  {
+    "id": "253",
+    "name": "Liz",
+    "color": "red",
+    "path": "rLiz.png"
+  },
+  {
+    "id": "254",
+    "name": "Margaret",
+    "color": "red",
+    "path": "rMargaret.png"
+  },
+  {
+    "id": "255",
+    "name": "Matrona",
+    "color": "red",
+    "path": "rMatrona.png"
+  },
+  {
+    "id": "256",
+    "name": "Megelda",
+    "color": "red",
+    "path": "rMegelda.png"
+  },
+  {
+    "id": "257",
+    "name": "Melascula",
+    "color": "red",
+    "path": "rMelascula.png"
+  },
+  {
+    "id": "258",
+    "name": "MeliodasDemon",
+    "color": "red",
+    "path": "rMeliodasDemon.png"
+  },
+  {
+    "id": "259",
+    "name": "MeliodasHalloween",
+    "color": "red",
+    "path": "rMeliodasHalloween.png"
+  },
+  {
+    "id": "260",
+    "name": "MeliodasLostvayneFest",
+    "color": "red",
+    "path": "rMeliodasLostvayneFest.png"
+  },
+  {
+    "id": "261",
+    "name": "MeliodasLostvayneLR",
+    "color": "red",
+    "path": "rMeliodasLostvayneLR.png"
+  },
+  {
+    "id": "262",
+    "name": "Merlin",
+    "color": "red",
+    "path": "rMerlin.png"
+  },
+  {
+    "id": "263",
+    "name": "MerlinHalloween",
+    "color": "red",
+    "path": "rMerlinHalloween.png"
+  },
+  {
+    "id": "264",
+    "name": "Mike",
+    "color": "red",
+    "path": "rMike.png"
+  },
+  {
+    "id": "265",
+    "name": "Mono",
+    "color": "red",
+    "path": "rMono.png"
+  },
+  {
+    "id": "266",
+    "name": "Monspeet",
+    "color": "red",
+    "path": "rMonspeet.png"
+  },
+  {
+    "id": "267",
+    "name": "OsloHawk",
+    "color": "red",
+    "path": "rOsloHawk.png"
+  },
+  {
+    "id": "268",
+    "name": "Reinhard",
+    "color": "red",
+    "path": "rReinhard.png"
+  },
+  {
+    "id": "269",
+    "name": "Rem",
+    "color": "red",
+    "path": "rRem.png"
+  },
+  {
+    "id": "270",
+    "name": "Roxy",
+    "color": "red",
+    "path": "rRoxy.png"
+  },
+  {
+    "id": "271",
+    "name": "RoxyMadnessWinter",
+    "color": "red",
+    "path": "rRoxyMadnessWinter.png"
+  },
+  {
+    "id": "272",
+    "name": "Rudeus",
+    "color": "red",
+    "path": "rRudeus.png"
+  },
+  {
+    "id": "273",
+    "name": "Sariel",
+    "color": "red",
+    "path": "rSariel.png"
+  },
+  {
+    "id": "274",
+    "name": "Shalltear",
+    "color": "red",
+    "path": "rShalltear.png"
+  },
+  {
+    "id": "275",
+    "name": "Shin",
+    "color": "red",
+    "path": "rShin.png"
+  },
+  {
+    "id": "276",
+    "name": "Sigurd",
+    "color": "red",
+    "path": "rSigurd.png"
+  },
+  {
+    "id": "277",
+    "name": "Simon",
+    "color": "red",
+    "path": "rSimon.png"
+  },
+  {
+    "id": "278",
+    "name": "Skadi",
+    "color": "red",
+    "path": "rSkadi.png"
+  },
+  {
+    "id": "279",
+    "name": "Slader2",
+    "color": "red",
+    "path": "rSlader2.png"
+  },
+  {
+    "id": "280",
+    "name": "Slater",
+    "color": "red",
+    "path": "rSlater.png"
+  },
+  {
+    "id": "281",
+    "name": "Taizoo",
+    "color": "red",
+    "path": "rTaizoo.png"
+  },
+  {
+    "id": "282",
+    "name": "Tarmiel",
+    "color": "red",
+    "path": "rTarmiel.png"
+  },
+  {
+    "id": "283",
+    "name": "Terry",
+    "color": "red",
+    "path": "rTerry.png"
+  },
+  {
+    "id": "284",
+    "name": "Thonar",
+    "color": "red",
+    "path": "rThonar.png"
+  },
+  {
+    "id": "285",
+    "name": "Twigo",
+    "color": "red",
+    "path": "rTwigo.png"
+  },
+  {
+    "id": "286",
+    "name": "Tyr",
+    "color": "red",
+    "path": "rTyr.png"
+  },
+  {
+    "id": "287",
+    "name": "ValentiObsession",
+    "color": "red",
+    "path": "rValentiObsession.png"
+  },
+  {
+    "id": "288",
+    "name": "Vivian",
+    "color": "red",
+    "path": "rVivian.png"
+  },
+  {
+    "id": "289",
+    "name": "Zeldris",
+    "color": "red",
+    "path": "rZeldris.png"
+  }
+]
